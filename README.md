@@ -7,3 +7,5 @@ Anggota Kelompok:
 4. Ardhika Adfiansyah Setiana - 0110224206 (Setup Github, Mencari Dataset, dan presentasi) 
 5. Muhammad Ibnu Fajar - 0110224214 (Mengerjakan Bagian Laporan, PREPROCESSING, dan Presentasi)
 
+Link dataset : https://www.kaggle.com/datasets/sh1zuka/indonesia-news-dataset-2024/data
+Link notebook : https://colab.research.google.com/drive/1iCWs9Sz0FnV_B9dXLa2WAElpqJFMAQY_?usp=drive_link
