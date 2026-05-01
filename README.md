@@ -9,3 +9,6 @@ Anggota Kelompok:
 
 Link dataset : https://www.kaggle.com/datasets/sh1zuka/indonesia-news-dataset-2024/data
 Link notebook : https://colab.research.google.com/drive/1iCWs9Sz0FnV_B9dXLa2WAElpqJFMAQY_?usp=drive_link
+
+
+<img width="1299" height="553" alt="WhatsApp Image 2026-05-01 at 17 43 55" src="https://github.com/user-attachments/assets/442b358e-403e-481f-b199-c8d0f5eed4f1" />
